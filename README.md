@@ -24,12 +24,4 @@ Java programming Internship
 4. Create a class to represent the user's bank account, which stores the account balance.
 5. Connect the ATM class with the user's bank account class to access and modify the account balance.
 6. Validate user input to ensure it is within acceptable limits.
-7. Display appropriate messages to the user based on their chosen options and the success or failure of their transactions
-
-## Installation
-- Just, Clone this repository - 
-````bash 
-
-````
-- Run File Using Any Java Application Like Eclipse IDE For Java Developer or Visual Studio Code
-Java Application Like Eclipse IDE For Java Developer or Visual Studio Code
+7. Display appropriate messages to the user based on their chosen options and the success or failure of their transactions.
